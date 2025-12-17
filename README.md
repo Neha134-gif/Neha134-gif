@@ -31,6 +31,6 @@
 ---
 
 ### 🌍 Connect with me
-🔗 LinkedIn: (link on profile)  
+🔗 LinkedIn: https://www.linkedin.com/in/neha-mishra-405702310
 
 📍 Greater Noida
