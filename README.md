@@ -15,8 +15,8 @@ Frontend prototype of an AI-powered system that analyzes product images to detec
 ✨ Key Highlights:
 - Image-based defect detection workflow (UI prototype)  
 - Clean and modern UI with animations  
-- Real-time analysis simulation  
-- Built with HTML, CSS, JavaScript  
+- Real-time defect analysis using Gemini Vision API
+- Built with HTML, CSS, JavaScript & Gemini Vision API 
 
 ---
 
